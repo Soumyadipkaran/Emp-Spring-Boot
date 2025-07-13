@@ -1,0 +1,15 @@
+.no-match-container {
+  text-align: center;
+  margin-top: 15vh;
+  font-family: Arial, sans-serif;
+  color: #d6d27f;
+}
+
+.no-match-container h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.no-match-container p {
+  font-size: 1.2rem;
+}
